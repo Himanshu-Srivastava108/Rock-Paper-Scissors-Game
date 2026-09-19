@@ -184,7 +184,14 @@ img{
     }
 
     #msg {
-        font-size: 1.2rem;
+        font-size: 1rem;
+        padding: 10px 15px;
+        max-width: 90%;
+        height: auto;
+        line-height: 1.4;
+        box-sizing: border-box;
+        white-space: normal;
+        overflow-wrap: break-word;
     }
 
     .creator {
